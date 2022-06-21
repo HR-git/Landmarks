@@ -33,7 +33,7 @@
 		2E13EC07286196A900275E59 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECF7E972856FBB6008EB9AE /* ModelData.swift */; };
 		2E13EC08286196A900275E59 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E4249BC285C30D100BEB0BE /* Profile.swift */; };
 		2E13EC0A2861993C00275E59 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E13EC092861993C00275E59 /* LandmarkDetail.swift */; };
-		2E200D892859763E00F97561 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E200D882859763E00F97561 /* HexagonParameters.swift */; };
+    2E200D892859763E00F97561 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E200D882859763E00F97561 /* HexagonParameters.swift */; };
 		2E200D8B28597CC400F97561 /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E200D8A28597CC400F97561 /* BadgeBackground.swift */; };
 		2E3ED1C72859A6AE00A24AC0 /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E3ED1C62859A6AE00A24AC0 /* BadgeSymbol.swift */; };
 		2E3ED1C92859AC6900A24AC0 /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E3ED1C82859AC6900A24AC0 /* RotatedBadgeSymbol.swift */; };
